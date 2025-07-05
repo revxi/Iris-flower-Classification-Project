@@ -44,5 +44,4 @@ python iris_classifier.py
 
 ---
 
-### 👩‍💻 Author: Your Name  
-Feel free to fork or star 🌟 the repo if you found it helpful!
+### 👩‍💻 Author: Diksha Singh
